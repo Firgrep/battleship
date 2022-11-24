@@ -2,7 +2,7 @@
 Battleship game for demo purposes
 
 Basic functional Battleship game where the user aims to strike enemy ships on a 10x10 board. Initially, this began as a
-project assignment from Codeacademy, which featured a single enemy ship on a single point in a 5x5 grid. Since then, 
+project assignment from Codeacademy, which featured a single enemy ship as a single point in a 5x5 grid. Since then, 
 this has been expanded and built upon to include: 
 
 * Five enemy ships of different sizes, which are randomly generated upon each new game.
